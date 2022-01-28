@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(white)
+}
+.heading{
+    text-align: center;
+    font-size: 350%;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #FCD2D1;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom right, white);
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom right, white);
+  }
+  
+  .card-registration .select-input .form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+    top: 13px;
+  }

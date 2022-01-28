@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+    font-size: 400%;
+    background-color: red;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.vh-100{
+    background-color: #FCD2D1;
+}
